@@ -1,3 +1,3 @@
 function message(){
-    console.log('Message');
+    console.log('Message2');
 }
